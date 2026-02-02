@@ -2,11 +2,12 @@
 
 ## Lien vers Whiteboard complété
 
-[Lien vers Whiteboard complété](#ajouter le lien ici)
+[lien vers whiteboard](https://whiteboard.cloud.microsoft/me/whiteboards/p/c3BvOmh0dHBzOi8vY21vbnRtb3JlbmN5MzY1LW15LnNoYXJlcG9pbnQuY29tL3BlcnNvbmFsLzI1MzU3MTZfY21vbnRtb3JlbmN5X3FjX2Nh/b!lgxTyDvQ9EizvZXohwAKurtUMYm6slNConiJxyjTISd0PJzh3tTHTZdSVbUAnFTG/01LUIG5DGWRHLUANHEWRAJ673BIW5TLBDZ)
 
 
 ## Équipe
 
-- Prénom Nom 1
-- Prénom Nom 2
-- ...
+- Marcus Andrew Bastien
+- David Mirza
+- Marc-Olivier Nadeau
+- Vincent Quesnel
